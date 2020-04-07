@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1009127143633",
+    "firebase_url": "https://bayad-matthew.firebaseio.com",
+    "project_id": "bayad-matthew",
+    "storage_bucket": "bayad-matthew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009127143633:android:b1d5f04a8e027d3e43adf0",
+        "android_client_info": {
+          "package_name": "com.isp.bayad_matthew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009127143633-31js0oh8ldo73ffsu4gpgtc9c0i29n97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQc0WhMoLerKa2TT4yrbcnFYpsQfGhzTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009127143633-31js0oh8ldo73ffsu4gpgtc9c0i29n97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009127143633:android:a5d5fceabf52b2bb43adf0",
+        "android_client_info": {
+          "package_name": "com.isp.matthew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009127143633-31js0oh8ldo73ffsu4gpgtc9c0i29n97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQc0WhMoLerKa2TT4yrbcnFYpsQfGhzTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009127143633-31js0oh8ldo73ffsu4gpgtc9c0i29n97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
